@@ -50,7 +50,8 @@ The most dangerous competitors aren't the ones who succeed once, but those who m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/reza-naghizadeh-1ba39721b/)
 
 ---
+![Public Views](https://komarev.com/ghpvc/?username=reznadev&color=blueviolet)
 
-![](https://komarev.com/ghpvc/?username=reznadev&color=blueviolet)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reznadev&theme=aura)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reznadev" alt="reznadev" /></a> </p>
