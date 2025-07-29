@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Reza Naghizadeh (aka rezna)
+# 👋 Hi, I’m Reza Naghizadeh
 
-Blue Brain with Red Fingers | 0x52 0x65 0x7A 0x61
+A Blue Brain with Red Fingers 
 
 ---
 
