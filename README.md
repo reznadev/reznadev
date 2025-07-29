@@ -16,7 +16,7 @@ I break things for a living [`security engineer`], automate everything obsessive
 
 ---
 
-## ⛩︎ Philosophy
+## ⛩︎ The Hackers Codex (Philosophy)
 
 ## > Commit  
 Lock in your target. Deploy full resources.  
