@@ -12,7 +12,7 @@ I break things for a living [`security engineer`], automate everything obsessive
 
 ## ⁂ Featured Projects
 
-- ⚡︎ [`portfolio & blog`](https://musint.io) — My personal brand & research hub
+- [`portfolio & blog`](https://rezna.io) — My personal brand & research hub
 
 ---
 
