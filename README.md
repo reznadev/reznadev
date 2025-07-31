@@ -1,7 +1,4 @@
 # 👋 Hi, I’m Reza Naghizadeh
-
-A Blue Brain with Red Fingers 
-
 ---
 
 ## ␛ What I Do
